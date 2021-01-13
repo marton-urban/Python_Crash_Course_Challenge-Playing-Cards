@@ -44,3 +44,4 @@ def same_suit(*cards):
 
 print(same_value('1 of Diamonds', '2 of Diamonds', '3 of Diamonds'))
 print(same_suit('1 of Diamonds', '2 of Diamonds', '3 of Diamonds'))
+print(same_value('1 of Diamonds', '1 of Diamonds', '1 of Diamonds'))
