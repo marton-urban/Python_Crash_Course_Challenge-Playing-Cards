@@ -1,7 +1,3 @@
-
-
-
-
 def build_deck():
     """Returns a list of all the cards in a standard deck, in order."""
     full_deck = []
