@@ -1,7 +1,2 @@
 __pychache__
-/.idea/.gitignore
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/Playing Cards.iml
-/.idea/inspectionProfiles/profiles_settings.xml
-/.idea/vcs.xml
+.idea
